@@ -19,4 +19,4 @@ Verse Blogs is a blogging platform built with Next.js, providing users with the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nomanhaider99/verse-blogs-website.git
+   git clone https://github.com/Parth-1104/Verse.git
